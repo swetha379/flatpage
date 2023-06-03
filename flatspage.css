@@ -1,0 +1,97 @@
+.hotel-bg {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.hotel-card {
+    background-color: white;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.hotel-heading {
+    font-family: "bree serif";
+    font-size: 25px;
+    color: #f19116;
+}
+
+.hotel-para {
+    font-family: "bree serif";
+    font-size: 15px;
+    color: #7b8794;
+}
+
+.hotel-book {
+    background-color: #f19116;
+    margin: 10px;
+    color: white;
+    font-size: 15px;
+}
+
+.flat-bg {
+    background-color: #222222;
+    background-size: cover;
+    padding: 5px;
+
+}
+
+.flat-card {
+    background-color: white;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.flat-image {
+    width: 70px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.flat-text-container {
+    padding: 10px;
+}
+
+.flat-type {
+    font-family: "bree serif";
+    font-size: 18px;
+    color: #0f0e46;
+    font-weight: bold;
+}
+
+.flat-description {
+    font-family: "bree serif";
+    font-size: 12px;
+    color: #6c6b70;
+}
+
+.bhk-image {
+    width: 100vw;
+}
+
+.bhk-bottom {
+    background-color: #222222;
+    background-size: cover;
+    padding: 10px;
+}
+
+.location-card {
+    padding: 0px;
+}
+
+.location-image {
+    height: 30px;
+    width: 30px;
+
+}
+
+.location-description {
+    font-family: "bree serif";
+    font-size: 15px;
+    color: white;
+}
+
+.horizontal-line {
+    background-color: white;
+}
